@@ -1,0 +1,131 @@
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\TapTitanXNA_JamesTaneda.exe
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\TapTitanXNA_JamesTaneda.pdb
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.exe
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.pdb
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\hero.xnb
+c:\users\istudent\documents\visual studio 2010\projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\BackgroundSprite\bg.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroSheet.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroIdle.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\SupportSprite\support.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\SupportSprite\support2.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.csprojResolveAssemblyReference.cache
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\Font.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\red_button.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\attack_button.xnb
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\hero.xnb
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\BackgroundSprite\bg.xnb
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroSheet.xnb
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroIdle.xnb
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\SupportSprite\support.xnb
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\SupportSprite\support2.xnb
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\red_button.xnb
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\attack_button.xnb
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\Font.xnb
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\TapTitanXNA_JamesTaneda.exe
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\TapTitanXNA_JamesTaneda.pdb
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.exe
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.pdb
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\GreenMonsterSprite\greenMonsterAttacked.xnb
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\GreenMonsterSprite\greenMonsterDead.xnb
+C:\Users\James\Documents\Visual Studio 2010\Projects\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\GreenMonsterSprite\greenMonsterIdle.xnb
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\hero.xnb
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\BackgroundSprite\bg.xnb
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroSheet.xnb
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroIdle.xnb
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\SupportSprite\support.xnb
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\SupportSprite\support2.xnb
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\red_button.xnb
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\attack_button.xnb
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\GreenMonsterSprite\greenMonsterAttacked.xnb
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\GreenMonsterSprite\greenMonsterDead.xnb
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\GreenMonsterSprite\greenMonsterIdle.xnb
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\Font.xnb
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\TapTitanXNA_JamesTaneda.exe
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\TapTitanXNA_JamesTaneda.pdb
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.csprojResolveAssemblyReference.cache
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.exe
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.pdb
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroIdleTPR.xnb
+D:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroSheetTPR.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\hero.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\BackgroundSprite\bg.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroSheet.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroIdle.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\SupportSprite\support.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\SupportSprite\support2.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\red_button.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\attack_button.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\GreenMonsterSprite\greenMonsterAttacked.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\GreenMonsterSprite\greenMonsterDead.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\GreenMonsterSprite\greenMonsterIdle.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroIdleTPR.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroSheetTPR.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\Font.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\TapTitanXNA_JamesTaneda.exe
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\TapTitanXNA_JamesTaneda.pdb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.csprojResolveAssemblyReference.cache
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.exe
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.pdb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\BossDemonSprite\bossDemonAttacked.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\BossDemonSprite\bossDemonDead.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\BossDemonSprite\bossDemonIdle.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\RedSlimeSprite\redSlimeAttacked.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\RedSlimeSprite\redSlimeDead.xnb
+G:\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\RedSlimeSprite\redSlimeIdle.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\hero.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\BackgroundSprite\bg.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroSheet.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroIdle.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\SupportSprite\support.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\SupportSprite\support2.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\red_button.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\attack_button.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\GreenMonsterSprite\greenMonsterAttacked.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\GreenMonsterSprite\greenMonsterDead.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\GreenMonsterSprite\greenMonsterIdle.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroIdleTPR.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroSheetTPR.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\BossDemonSprite\bossDemonAttacked.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\BossDemonSprite\bossDemonDead.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\BossDemonSprite\bossDemonIdle.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\RedSlimeSprite\redSlimeAttacked.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\RedSlimeSprite\redSlimeDead.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\RedSlimeSprite\redSlimeIdle.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\Font.xnb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\TapTitanXNA_JamesTaneda.exe
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\TapTitanXNA_JamesTaneda.pdb
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.csprojResolveAssemblyReference.cache
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.exe
+C:\Users\istudent\Desktop\updates\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.pdb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\hero.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\BackgroundSprite\bg.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroSheet.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroIdle.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\SupportSprite\support.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\SupportSprite\support2.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\red_button.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\attack_button.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\GreenMonsterSprite\greenMonsterAttacked.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\GreenMonsterSprite\greenMonsterDead.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\GreenMonsterSprite\greenMonsterIdle.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroIdleTPR.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\HeroSprite\heroSheetTPR.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\BossDemonSprite\bossDemonAttacked.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\BossDemonSprite\bossDemonDead.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\BossDemonSprite\bossDemonIdle.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\RedSlimeSprite\redSlimeAttacked.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\RedSlimeSprite\redSlimeDead.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\RedSlimeSprite\redSlimeIdle.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\Content\Font.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\TapTitanXNA_JamesTaneda.exe
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\bin\x86\Debug\TapTitanXNA_JamesTaneda.pdb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.csprojResolveAssemblyReference.cache
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.exe
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\Taneda_TapTitanXNA\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\TapTitanXNA_JamesTaneda\obj\x86\Debug\TapTitanXNA_JamesTaneda.pdb
