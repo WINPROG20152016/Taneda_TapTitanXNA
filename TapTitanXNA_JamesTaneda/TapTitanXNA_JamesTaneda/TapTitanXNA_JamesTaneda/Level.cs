@@ -15,6 +15,11 @@ namespace TapTitanXNA_JamesTaneda
         const int DAMAGE_TEXT_DURATION = 60;
         const int SUPPORT_DURATION = 180;
 
+        public int damageMod = 10;
+        public int damage;
+        public int supportDamage1;
+        public int supportDamage2;
+
         public static int windowWidth = 400;
         public static int windowHeight = 500;
 
@@ -96,7 +101,7 @@ namespace TapTitanXNA_JamesTaneda
             support1.Update(gameTime);
             support2.Update(gameTime);
 
-            if (currentMonsterHP == 0)
+            if (currentMonsterHP < 1)
             {
                 level++;
 
@@ -136,17 +141,25 @@ namespace TapTitanXNA_JamesTaneda
 
             oldMouseState = mouseState;
 
+            if (damageMod <= 43)
+                damageMod++;
+            else
+                damageMod = 10;
+
             playButton.Update(gameTime, mouseX, mouseY, mpressed, prev_mpressed);
 
             if (attackButton.Update(gameTime, mouseX, mouseY, mpressed, prev_mpressed))
             {
-                currentMonsterHP -= hero.AttackPower;
+                damage = hero.AttackPower + ((hero.AttackPower * 30) / damageMod);
+                currentMonsterHP -= damage;
                 isAttacking = true;
             }
 
             if (supportDamageTime < 1)
             {
-                currentMonsterHP -= (support1.AttackPower + support2.AttackPower);
+                supportDamage1 = (support1.AttackPower + (support1.AttackPower * 20) / damageMod);
+                supportDamage2 = (support2.AttackPower + (support2.AttackPower * 20) / damageMod);
+                currentMonsterHP -= supportDamage1 + supportDamage2;
                 isSupportAttacking = true;
                 supportDamageTime = SUPPORT_DURATION;
             }
@@ -166,7 +179,7 @@ namespace TapTitanXNA_JamesTaneda
 
             if (isAttacking)
             {
-                spriteBatch.DrawString(damageStringFont, hero.AttackPower + "!", new Vector2(180, 100), Color.Red);
+                spriteBatch.DrawString(damageStringFont, damage + "!", new Vector2(180, 100), Color.Red);
                 damageTextTime--;
                 if (damageTextTime < 1)
                 {
@@ -177,8 +190,8 @@ namespace TapTitanXNA_JamesTaneda
 
             if (isSupportAttacking)
             {
-                spriteBatch.DrawString(damageStringFont, support1.AttackPower + "!", new Vector2(75, 200), Color.Red);
-                spriteBatch.DrawString(damageStringFont, support2.AttackPower + "!", new Vector2(280, 200), Color.Red);
+                spriteBatch.DrawString(damageStringFont, supportDamage1 + "!", new Vector2(75, 200), Color.Red);
+                spriteBatch.DrawString(damageStringFont, supportDamage2 + "!", new Vector2(280, 200), Color.Red);
                 supportDamageTextTime--;
                 if (supportDamageTextTime < 1)
                 {

@@ -55,7 +55,7 @@ namespace TapTitanXNA_JamesTaneda
                     idleFrames = 2;
                     attackedFrames = 2;
                     deadFrames = 2;
-                    lifePoints = 500;
+                    lifePoints = 1000;
                     break;
                 case "RED SLIME":
                     imageIdle = "RedSlimeSprite/redSlimeIdle";
@@ -64,7 +64,7 @@ namespace TapTitanXNA_JamesTaneda
                     idleFrames = 2;
                     attackedFrames = 2;
                     deadFrames = 2;
-                    lifePoints = 750;
+                    lifePoints = 2500;
                     break;
                 case "BOSS DEMON":
                     imageIdle = "BossDemonSprite/bossDemonIdle";
@@ -73,7 +73,7 @@ namespace TapTitanXNA_JamesTaneda
                     idleFrames = 2;
                     attackedFrames = 2;
                     deadFrames = 2;
-                    lifePoints = 1000;
+                    lifePoints = 4000;
                     break;
                 default:
                     imageIdle = "SupportSprite/support2";
