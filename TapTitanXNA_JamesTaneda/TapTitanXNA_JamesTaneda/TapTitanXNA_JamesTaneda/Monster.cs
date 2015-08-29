@@ -46,16 +46,16 @@ namespace TapTitanXNA_JamesTaneda
 
             switch (name)
             {
-                case "GREEN MONSTER":
-                    imageIdle = "GreenMonsterSprite/greenMonsterIdle";
-                    imageAttacked = "GreenMonsterSprite/greenMonsterAttacked";
-                    imageDead = "GreenMonsterSprite/greenMonsterDead";
+                case "GREEN OGRE":
+                    imageIdle = "GreenOgreSprite/greenOgreIdle";
+                    imageAttacked = "GreenOgreSprite/greenOgreAttacked";
+                    imageDead = "GreenOgreSprite/greenOgreDead";
                  //   positionAdjustX = -30.0f;
                  //   positionAdjustY = -40.0f;
                     idleFrames = 2;
                     attackedFrames = 2;
                     deadFrames = 2;
-                    lifePoints = 1000;
+                    lifePoints = 33333;
                     break;
                 case "RED SLIME":
                     imageIdle = "RedSlimeSprite/redSlimeIdle";
@@ -64,16 +64,34 @@ namespace TapTitanXNA_JamesTaneda
                     idleFrames = 2;
                     attackedFrames = 2;
                     deadFrames = 2;
-                    lifePoints = 2500;
+                    lifePoints = 1000000;
                     break;
-                case "BOSS DEMON":
-                    imageIdle = "BossDemonSprite/bossDemonIdle";
-                    imageAttacked = "BossDemonSprite/bossDemonAttacked";
-                    imageDead = "BossDemonSprite/bossDemonDead";
+                case "BROWN DEMON":
+                    imageIdle = "BrownDemonSprite/brownDemonIdle";
+                    imageAttacked = "BrownDemonSprite/brownDemonAttacked";
+                    imageDead = "BrownDemonSprite/brownDemonDead";
                     idleFrames = 2;
                     attackedFrames = 2;
                     deadFrames = 2;
-                    lifePoints = 4000;
+                    lifePoints = 4500000;
+                    break;
+                case "MAGIC FIEND":
+                    imageIdle = "MagicFiendSprite/magicFiendIdle";
+                    imageAttacked = "MagicFiendSprite/magicFiendAttacked";
+                    imageDead = "MagicFiendSprite/magicFiendDead";
+                    idleFrames = 2;
+                    attackedFrames = 2;
+                    deadFrames = 2;
+                    lifePoints = 7654321;
+                    break;
+                case "MINUTE MONSTER":
+                    imageIdle = "MinuteMonsterSprite/minuteMonsterIdle";
+                    imageAttacked = "MinuteMonsterSprite/minuteMonsterAttacked";
+                    imageDead = "MinuteMonsterSprite/minuteMonsterDead";
+                    idleFrames = 2;
+                    attackedFrames = 2;
+                    deadFrames = 2;
+                    lifePoints = 20000000;
                     break;
                 default:
                     imageIdle = "SupportSprite/support2";

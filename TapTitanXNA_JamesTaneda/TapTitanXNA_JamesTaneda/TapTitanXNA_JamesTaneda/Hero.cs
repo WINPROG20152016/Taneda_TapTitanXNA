@@ -11,11 +11,14 @@ namespace TapTitanXNA_JamesTaneda
 {
     public enum frames { HERO_IDLE = 4, HERO_ATTACK = 2,
                   SUPPORT_IDLE_1 = 6, 
-                  SUPPORT_IDLE_2 = 6 }
+                  SUPPORT_IDLE_2 = 6,
+                  SUPPORT_IDLE_3 = 6,
+                  SUPPORT_IDLE_4 = 6}
 
     public class Hero
     {
-       
+  
+
         #region Properties
         Vector2 position;
         Texture2D spriteIdle;
@@ -39,6 +42,7 @@ namespace TapTitanXNA_JamesTaneda
         public int AttackPower
         {
             get { return attackPower; }
+            set { attackPower = value; }
         }
         
         public void LoadContent()
@@ -59,21 +63,35 @@ namespace TapTitanXNA_JamesTaneda
                     positionAdjustY = 0.0f;
                     idleFrames = (int)frames.HERO_IDLE;
                     attackFrames = (int)frames.HERO_ATTACK;
-                    attackPower = 10;
+                    attackPower = 200;
                     break;
                 case "SUPPORT":
                     imageIdle = "SupportSprite/support";
                     positionAdjustX = -100.0f;
                     positionAdjustY = 0.0f;
                     idleFrames = (int)frames.SUPPORT_IDLE_1;
-                    attackPower = 5;
+                    attackPower = 50;
                     break;
                 case "SUPPORT_2":
                     imageIdle = "SupportSprite/support2";
                     positionAdjustX = 100.0f;
                     positionAdjustY = 0.0f;
                     idleFrames = (int)frames.SUPPORT_IDLE_2;
-                    attackPower = 4;
+                    attackPower = 75;
+                    break;
+                case "SUPPORT_3":
+                    imageIdle = "SupportSprite/support3";
+                    positionAdjustX = -100.0f;
+                    positionAdjustY = -100.0f;
+                    idleFrames = (int)frames.SUPPORT_IDLE_3;
+                    attackPower = 125;
+                    break;
+                case "SUPPORT_4":
+                    imageIdle = "SupportSprite/support4";
+                    positionAdjustX = 100.0f;
+                    positionAdjustY = -100.0f;
+                    idleFrames = (int)frames.SUPPORT_IDLE_4;
+                    attackPower = 150;
                     break;
                 default:
                     imageIdle = "SupportSprite/support2";

@@ -105,18 +105,18 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GreenMonsterSprite\greenMonsterAttacked.png">
-      <Name>greenMonsterAttacked</Name>
+    <Compile Include="GreenOgreSprite\greenOgreAttacked.png">
+      <Name>greenOgreAttacked</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="GreenMonsterSprite\greenMonsterDead.png">
-      <Name>greenMonsterDead</Name>
+    <Compile Include="GreenOgreSprite\greenOgreDead.png">
+      <Name>greenOgreDead</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="GreenMonsterSprite\greenMonsterIdle.png">
-      <Name>greenMonsterIdle</Name>
+    <Compile Include="GreenOgreSprite\greenOgreIdle.png">
+      <Name>greenOgreIdle</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
@@ -134,18 +134,18 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BossDemonSprite\bossDemonAttacked.png">
-      <Name>bossDemonAttacked</Name>
+    <Compile Include="BrownDemonSprite\brownDemonAttacked.png">
+      <Name>brownDemonAttacked</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="BossDemonSprite\bossDemonDead.png">
-      <Name>bossDemonDead</Name>
+    <Compile Include="BrownDemonSprite\brownDemonDead.png">
+      <Name>brownDemonDead</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="BossDemonSprite\bossDemonIdle.png">
-      <Name>bossDemonIdle</Name>
+    <Compile Include="BrownDemonSprite\brownDemonIdle.png">
+      <Name>brownDemonIdle</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
@@ -161,6 +161,83 @@
     </Compile>
     <Compile Include="RedSlimeSprite\redSlimeIdle.png">
       <Name>redSlimeIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="SupportSprite\support3.png">
+      <Name>support3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="upgradeSupport_button.png">
+      <Name>upgradeSupport_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="upgradeAtk_button.png">
+      <Name>upgradeAtk_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="buySupport_button.png">
+      <Name>buySupport_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MagicFiendSprite\magicFiendIdle.png">
+      <Name>magicFiendIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MagicFiendSprite\magicFiendDead.png">
+      <Name>magicFiendDead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MagicFiendSprite\magicFiendAttacked.png">
+      <Name>magicFiendAttacked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MinuteMonsterSprite\minuteMonsterAttacked.png">
+      <Name>minuteMonsterAttacked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MinuteMonsterSprite\minuteMonsterDead.png">
+      <Name>minuteMonsterDead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MinuteMonsterSprite\minuteMonsterIdle.png">
+      <Name>minuteMonsterIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="SupportSprite\support4.png">
+      <Name>support4</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
